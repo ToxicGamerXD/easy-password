@@ -1,0 +1,17 @@
+{
+    "name": "password",
+    "version": "0.0.1",
+    "author": "ToxicGamerXD",
+    "files": [
+      "lib"
+    ],
+    "main": "lib/password",
+    "license": "MIT",
+    "contributors": [
+      "ToxicGamerXD <gielowjeremy123@gmail.com>"
+    ],
+    "repository": {
+      "type": "git",
+      "url": ""
+    }
+  }
