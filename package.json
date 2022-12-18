@@ -1,17 +1,27 @@
 {
-    "name": "password",
-    "version": "0.0.1",
-    "author": "ToxicGamerXD",
-    "files": [
-      "lib"
-    ],
-    "main": "lib/password",
-    "license": "MIT",
-    "contributors": [
-      "ToxicGamerXD <gielowjeremy123@gmail.com>"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ToxicGamerXD/easy-password.git"
-    }
-  }
+  "name": "@tgxd/easy-password",
+  "version": "1.0.0",
+  "description": "An easy to use password generator",
+  "main": "easy-password.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "easy-password",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxicGamerXD/easy-password.git"
+  },
+  "author": "ToxicGamerXD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToxicGamerXD/easy-password/issues"
+  },
+  "homepage": "https://github.com/ToxicGamerXD/easy-password#readme"
+}
