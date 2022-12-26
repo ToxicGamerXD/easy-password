@@ -20,6 +20,6 @@ console.log(password(15, {caps: true}))
 // -> wQgvHUZSBbUMrcn
 ```
 
-## **Attention**
+## :warning: **Attention** :warning:
 
-**⚠ DO NOT USE ANY GENERATED PASSWORDS FOR ANY OF YOUR ACCOUNT FOR YOUR OWN SAFETY**
+**DO NOT USE ANY GENERATED PASSWORDS FOR ANY OF YOUR ACCOUNT FOR YOUR OWN SAFETY**
