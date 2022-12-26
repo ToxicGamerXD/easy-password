@@ -23,7 +23,7 @@ git clone https://github.com/ToxicGamerXD/easy-password.git
 ```javascript
 const password = require("@tgxd/easy-password")
 
-console.log(password(15, {caps: true}))
+console.log(password(15, {uppercase: true}))
 // -> wQgvHUZSBbUMrcn
 ```
 
