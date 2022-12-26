@@ -1,9 +1,25 @@
 # easy-password
 
-### Simple Password Generator
+![npm](https://img.shields.io/npm/v/@tgxd/easy-password?color=red&logo=npm)
+![npm](https://img.shields.io/npm/dt/@tgxd/easy-password?color=blue)
+
+## Installation
+
+```
+npm install @tgxd/easy-password
+git clone https://github.com/ToxicGamerXD/easy-password.git
+```
+
+## Example Usage
+
+### Simple password generation
 ```javascript
 const password = require("@tgxd/easy-password")
 
-// password(length, {options})
-console.log(password(20, {caps: true}))
+console.log(password(15, {caps: true}))
+// -> wQgvHUZSBbUMrcn
 ```
+
+## **Attention**
+
+**⚠ DO NOT USE ANY GENERATED PASSWORDS FOR ANY OF YOUR ACCOUNT FOR YOUR OWN SAFETY**
