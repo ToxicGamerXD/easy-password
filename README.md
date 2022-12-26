@@ -5,8 +5,15 @@
 
 ## Installation
 
+### npm
+
 ```
 npm install @tgxd/easy-password
+```
+
+### git
+
+```
 git clone https://github.com/ToxicGamerXD/easy-password.git
 ```
 
