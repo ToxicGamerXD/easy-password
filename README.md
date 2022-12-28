@@ -26,7 +26,3 @@ const password = require("@tgxd/easy-password")
 console.log(password(15, {uppercase: true}))
 // -> wQgvHUZSBbUMrcn
 ```
-
-## :warning: **Attention** :warning:
-
-**DO NOT USE ANY GENERATED PASSWORDS FOR ANY OF YOUR ACCOUNT FOR YOUR OWN SAFETY**
